@@ -516,6 +516,9 @@
   padding: 10px;
   width: 100%;
 }
+.carousel .card .links a {
+  color: lawngreen;
+}
 .carousel .card .links span {
   font-size: 18px;
   cursor: pointer;
